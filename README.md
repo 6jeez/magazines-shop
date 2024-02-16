@@ -1,3 +1,3 @@
 Simple CLI program for selling magazines.
-Used: OOP, aiosqlite
+Used: OOP, aiosqlite.
 Admin password: 228
